@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Laravel 8](laravel-8.md)
 * [Laravel 5.4](laravel-54.md)
 * [Laravel 5.2, 5.3](laravel_52.md)
 * [Laravel 5.1 Version](index/README.md)
