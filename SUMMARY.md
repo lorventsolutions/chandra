@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Laravel 8](laravel-8.md)
+* [Laravel 5.6](laravel-56.md)
 * [Laravel 5.4](laravel-54.md)
 * [Laravel 5.2, 5.3](laravel_52.md)
 * [Laravel 5.1 Version](index/README.md)
@@ -20,9 +21,8 @@
     * [Copying Chandra Files](laravel_5_version/installation/copying_chandra_files.md)
     * [Install Chandra](laravel_5_version/installation/install_chandra.md)
 * [Updates](updates/README.md)
-  * [4.2](updates/23.md)
+  * [4.x](updates/23.md)
 * [CRUD](index-1/README.md)
   * [usage](index-1/usage.md)
-* [Laravel 5.6](laravel-56.md)
 * [Recaptcha](recaptcha.md)
 
